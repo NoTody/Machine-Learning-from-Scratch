@@ -9,8 +9,14 @@ class SVM(object):
 
     Attributes
     ----------
+    W : 1D numpy array
+        weights for SVM classifier
+    b : 1D numpy array
+        bias for SVM classifier
     C : float
         penalty term of misclassification error
+    SV : 1D numpy arrayh
+        support vectors for SVM classifier
     kernel : str
         kernel name of SVM (default 'linear')
     gamma : str
