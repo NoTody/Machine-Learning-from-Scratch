@@ -3,7 +3,7 @@ import random
 
 class LR():
     """
-    A class used to generate one versus all Support Vector Machine Classifiers
+    A class used to generate Logistic Regression Classifier
     ...
 
     Attributes
