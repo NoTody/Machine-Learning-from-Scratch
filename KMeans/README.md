@@ -1,2 +1,2 @@
 # KMeans implementation
-![alt text](https://github.com/NoTody/Machine-Learning-from-Scratch/blob/main/Linear-Discriminant-Analysis/KMeans_derivation.png?raw=true)
+![alt text](https://github.com/NoTody/Machine-Learning-from-Scratch/blob/main/KMeans/KMeans_derivation.png?raw=true)
